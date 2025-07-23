@@ -45,5 +45,4 @@ This workflow includes the following key components:
 ## 📬 Contact
 
 For questions or collaboration:  
-[Your Name] – [your.email@example.com]  
-GitHub: [https://github.com/Benshaaww](https://github.com/Benshaaww)
+Benjamin Shaw - benshawrob@gmail.com
